@@ -10,6 +10,10 @@
 
             // Ajouté
             Console.WriteLine("HEyyyyyyyy :)");
+
+            // YOOO
+            int x = 5;
+            int y = 8;
         }
     }
 }
