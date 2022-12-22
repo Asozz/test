@@ -7,6 +7,9 @@
             Console.WriteLine("Lol");
             // Hey j'ai ajouté cela!
             Console.WriteLine("LOOK!");
+
+            // Ajouté
+            Console.WriteLine("HEyyyyyyyy :)");
         }
     }
 }
